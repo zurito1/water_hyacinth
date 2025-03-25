@@ -1,0 +1,35 @@
+item {
+    name: "CommomWaterHyacinth",
+    id: 1,
+    display_name: "CommomWaterHyacinth"
+}
+item {
+    name: "CommonDuckweeds",
+    id: 2,
+    display_name: "CommonDuckweeds"
+}
+item {
+    name: "CommonWaterHyacinth",
+    id: 3,
+    display_name: "CommonWaterHyacinth"
+}
+item {
+    name: "CommonWaterHyacinthPatch",
+    id: 4,
+    display_name: "CommonWaterHyacinthPatch"
+}
+item {
+    name: "HearleafFalsePickerelle",
+    id: 5,
+    display_name: "HearleafFalsePickerelle"
+}
+item {
+    name: "WaterLettuce",
+    id: 6,
+    display_name: "WaterLettuce"
+}
+item {
+    name: "WaterLettucePatch",
+    id: 7,
+    display_name: "WaterLettucePatch"
+}
